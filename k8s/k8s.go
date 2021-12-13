@@ -1,4 +1,4 @@
-package monitor
+package k8s
 
 import (
 	"fmt"
